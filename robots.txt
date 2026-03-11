@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vugelman.online/sitemap.xml
